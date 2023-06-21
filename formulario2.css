@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 5px;
+}
+
+body{
+    background-color:#C3ACD0;
+    justify-content: center;
+}
+
+fieldset{
+    border-color: #212A3E;
+    border-radius: 4px;
+    background-color: white;
+    margin: 2%;
+}
+#tabelaga1{
+    background-color: #212A3E;
+    color: white;
+
+}
+
+#anotacao{
+    margin: 2%;
+    border: 1px solid #212A3E;
+    display: block;
+}
+
+th{
+
+    background-color: #212A3E;
+    color: white;
+    height: 15px;
+    
+}
+
+.box{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    min-width: 320px;
+    max-width: 800px;
+    transform: translate(-50%, -50%);
+    background-color: #9BA4B5;
+}
+
+.tabell{
+    max-width: 800px;
+    min-width: 320px;
+    
+}
+
+#hora{
+    width: 80px;
+}
+
+#a{
+    width: 80px;
+}
+
+#nome{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #212A3E;
+    width:89%
+}
+
+#ender{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #212A3E;
+    width: 86%
+}
+
+#telefone{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #212A3E;
+}
+
+#email{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #212A3E;
+    width: 58%;
+}
+
+#escol{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #212A3E;
+    width: 89%;
+}
+
+#ender{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #212A3E;
+}
+
+#nmatri{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #212A3E;
+}
+
+#turma{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #212A3E;
+    width: 47%;
+}
